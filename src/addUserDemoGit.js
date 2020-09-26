@@ -1,3 +1,3 @@
 const addUser = () => {
-  console.log("Han finished the task");
+  console.log("Hello 2");
 };
